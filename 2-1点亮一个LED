@@ -1,1 +1,10 @@
-
+#include <REGX52.H>
+void main ()
+{
+	//0001 1000
+	P2=0xFE;
+	while (1)
+	{
+		
+	}
+}
